@@ -23,7 +23,6 @@ Menghitung tarif total berdasarkan jarak yang diberikan.
 Contoh Penggunaan
 * java
 
-Copy
 TaxiFareCalculator fareCalculator = new TaxiFareCalculator();
 try {
     double totalFare = fareCalculator.calculateFare(5); // Jarak 5 km
@@ -32,8 +31,13 @@ try {
     System.err.println(e.getMessage());
 }
 
-Instalasi
+# Instalasi
 Pastikan Anda memiliki Java Development Kit (JDK) terinstal.
 Salin kode kelas TaxiFareCalculator ke dalam proyek Java Anda.
 Gunakan kelas ini untuk menghitung tarif perjalanan taksi.
 
+# Kontributor
+- Muhammad Yusron Al Ghoni R
+* Thanks TO
+  - Ameliya Agustin 
+  - Muhammad Fadhil Yusran Zuahair
