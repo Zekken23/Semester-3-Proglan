@@ -4,7 +4,7 @@
 * Deskripsi
 * TaxiFareCalculator adalah kelas Java yang digunakan untuk menghitung tarif perjalanan taksi berdasarkan jarak yang ditempuh. Kelas ini menggunakan tarif dasar dan tarif per kilometer untuk menghitung total biaya.
 
-* Fitur
+## Fitur
 * Menghitung tarif perjalanan berdasarkan jarak.
 Memvalidasi input jarak untuk memastikan nilai yang diberikan lebih besar dari nol.
 Tarif
@@ -14,7 +14,7 @@ Metode
 calculateFare(double distance)
 Menghitung tarif total berdasarkan jarak yang diberikan.
 
-# Parameter
+## Parameter
 * distance: Jarak yang ditempuh dalam kilometer (harus lebih besar dari 0).
 * Pengembalian
 * Mengembalikan tarif total sebagai double.
@@ -23,6 +23,7 @@ Menghitung tarif total berdasarkan jarak yang diberikan.
 Contoh Penggunaan
 * java
 
+'''bash
 TaxiFareCalculator fareCalculator = new TaxiFareCalculator();
 try {
     double totalFare = fareCalculator.calculateFare(5); // Jarak 5 km
