@@ -43,3 +43,6 @@ Gunakan kelas ini untuk menghitung tarif perjalanan taksi.
   - Ameliya Agustin 
   - Muhammad Fadhil Yusran Zuahair
   - youtube
+
+## clone and Copyright code
+* bebas sih kalo kalian ingin mengclone code ini buat belajar dan cantumin source nya aja 
