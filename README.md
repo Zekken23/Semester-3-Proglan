@@ -45,4 +45,7 @@ Gunakan kelas ini untuk menghitung tarif perjalanan taksi.
   - youtube
 
 ## clone and Copyright code
-* bebas sih kalo kalian ingin mengclone code ini buat belajar dan cantumin source nya aja 
+* bebas sih kalo kalian ingin mengclone code ini buat belajar dan cantumin source nya aja
+
+## Testing
+Sucsesfully
